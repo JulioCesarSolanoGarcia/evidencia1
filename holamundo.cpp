@@ -3,7 +3,9 @@ using namespace std;
 int main()
 {
 	
-	cout<<"Hola mundo";
+	cout<<"Hola mundo\n";
+	cout<<"\nProbando cambios\n"
+	cout<<"\nProbando cambios\n"
 	system("pause");
 	return 0;
 }
